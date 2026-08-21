@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <rect x="1" y="1" width="46" height="46" rx="12" fill="#6FA34A"/>
+  <!-- 泥土 -->
+  <ellipse cx="24" cy="38" rx="15" ry="6" fill="#9A704B"/>
+  <ellipse cx="24" cy="36.5" rx="13" ry="5" fill="#7A5433"/>
+  <!-- 芽芽身体 -->
+  <ellipse cx="24" cy="26" rx="13" ry="12" fill="#F8F3E7"/>
+  <!-- 叶子 -->
+  <path d="M24 15 Q24 10 24 8" stroke="#4A7A2E" strokeWidth="2.4" fill="none" strokeLinecap="round"/>
+  <ellipse cx="18.5" cy="8.5" rx="6" ry="3.4" fill="#A5CE78" transform="rotate(-28 18.5 8.5)"/>
+  <ellipse cx="29.5" cy="8.5" rx="6" ry="3.4" fill="#C2E08F" transform="rotate(28 29.5 8.5)"/>
+  <!-- 表情 -->
+  <circle cx="19" cy="25" r="1.9" fill="#2F2A24"/>
+  <circle cx="29" cy="25" r="1.9" fill="#2F2A24"/>
+  <circle cx="19.7" cy="24.3" r="0.6" fill="#fff"/>
+  <circle cx="29.7" cy="24.3" r="0.6" fill="#fff"/>
+  <path d="M21 29.5 Q24 32 27 29.5" stroke="#2F2A24" strokeWidth="1.6" fill="none" strokeLinecap="round"/>
+  <ellipse cx="15.5" cy="29" rx="2.4" ry="1.5" fill="#F0D9C4" opacity="0.8"/>
+  <ellipse cx="32.5" cy="29" rx="2.4" ry="1.5" fill="#F0D9C4" opacity="0.8"/>
+</svg>
