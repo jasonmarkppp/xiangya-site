@@ -90,4 +90,4 @@ git push
 
 ## License
 
-© 想芽 · All rights reserved.
+[MIT](LICENSE)
